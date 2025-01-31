@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
+![Project Image](./Project%20Ex%20Image.png)
 
 
 This project is an **end-to-end data analysis solution** designed to extract valuable business insights from **Walmart sales data** using:
