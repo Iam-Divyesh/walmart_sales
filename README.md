@@ -82,12 +82,12 @@ pip install pandas numpy sqlalchemy mysql-connector-python psycopg2
 
 ## 📂 Project Structure
 ```plaintext
-|-- data/                     # Raw & processed datasets
-|-- sql_queries/              # SQL analysis scripts
-|-- notebooks/                # Jupyter Notebooks
+|-- Business_Questions.sql    # SQL analysis scripts
+|-- Project Ex Image.png      # Example project image
 |-- README.md                 # Project documentation
+|-- Walmart.csv               # Dataset used for analysis
+|-- project.ipynb             # Jupyter Notebook with analysis
 |-- requirements.txt          # List of dependencies
-|-- main.py                   # Python script for processing
 ```
 
 ---
